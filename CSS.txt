@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+header {
+     background-color: aquamarine;
+}
+h1 {
+    color: darkred;
+    font-size: 30px;
+    border: 5px solid aquamarine;
+    text-align:center;
+}
+footer p {
+    border: 10px solid greenyellow;
+    background-color:  aquamarine;
+    border-radius: 10px;
+}
+nav {
+    margin: 10px;
+    padding: 10px;
+    border: 2px sollid greenyellow;
+}
+nav a {
+    margin: 30px;
+    font-size: 20;
+    text-decoration: none;
+    color: rgb (red, green, blue )
+}
+p {
+    border: 20xp solid white;
+    background-color:greenyellow;
+}
